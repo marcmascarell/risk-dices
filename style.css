@@ -1,0 +1,26 @@
+.attack {
+    color: red
+}
+
+/*span {*/
+    /*text-align: center;*/
+    /*vertical-align: middle;*/
+    /*display: inline-block;*/
+    /*width: 30px;*/
+    /*padding:10px;*/
+    /*margin-right: 10px;*/
+    /*border: 1px solid blue;*/
+/*}*/
+
+div {
+    margin-bottom: 10px
+}
+
+h3 {
+    font-size: 8em;
+    text-align: center;
+}
+
+.result {
+    text-align: center;
+}
